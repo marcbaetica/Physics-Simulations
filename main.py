@@ -1,4 +1,0 @@
-from vpython import *
-
-
-sphere()
